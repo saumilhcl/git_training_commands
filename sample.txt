@@ -1,4 +1,2 @@
 this for testing git repo
 this is my new change
-this is my sample data
-this is for demo purpose
